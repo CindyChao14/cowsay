@@ -1,7 +1,7 @@
 # Cowsay Container - v7
 # docker run -it -v /tmp:/cow cindychao14/cowsay:v4 bash
 
-FROM alpine:3.7
+FROM alpine:3.6
 
 MAINTAINER cindychao14
 
